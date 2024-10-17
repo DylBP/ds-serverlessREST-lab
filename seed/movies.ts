@@ -38,7 +38,7 @@ export const movies : Movie[] = [
     adult: false,
     backdrop_path: '/5a4JdoFwll5DRtKMe7JLuGQ9yJm.jpg',
     genre_ids: [ 18, 878, 28 ],
-    id: 695721,
+    id: 2345,
     original_language: 'en',
     original_title: 'The Hunger Games: The Ballad of Songbirds & Snakes',
     overview: '64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.',
